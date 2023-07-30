@@ -1,4 +1,12 @@
 # OSA-Gyaa-yoth-Mk1
+160 crate early game low cost miner/hauler, made for speed in high risk environments.
+
+Made fore starting players looking to get a foot in the door in Elysium.
+
+Can be easily mass produced by individuals and corperations.
+
+//Specs//
+
 150 m/s max speed dry, 130 m/s wet with exutium alloy.
 
 4300612 kg in weight for hauler variant, 4381982.5 kg in weight for miner variant.
