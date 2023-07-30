@@ -39,6 +39,8 @@ While not meta tanked, the ship has a generous 2 layer char firewall at the rear
 
 These ships are also ideal for individuals and corps to operate out of dev stations like moon city and arma.
 
+The ship can take off at 10% gens, making it possible to leave you location very rapidly from spawning the ship.
+
 T1 fuel rods are not as economic as T2, they require exorium to be hauled out for refills, where as T1 can be sustained with local nhurgite.
 
 Combined with a SZ CLF hauler to generate credits, a new player can easily fund trips to the Ely belt, and can mine the materials for better ships and there own cap ship in time.
