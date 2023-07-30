@@ -1,6 +1,12 @@
 # OSA-Gyaa-yoth-Mk1
 160 crate early game low cost miner/hauler, made for speed in high risk environments.
 
+Aimed at new players looking to get in and out of Elysium fast, both hauler and miner are made of low tech components to keep the risk low but the speed high.
+
+For more itermediete players the Gyaa-yoth is a mass production ship good for corps or making low risk trips to moon city.
+
+Also has a small amount of char plates to give you a chance of running away if ambushed.
+
 //Specs//
 
 150 m/s max speed dry, 130 m/s wet with exutium alloy.
@@ -21,16 +27,20 @@ Requires a repair hall to opperate, it is best used between dev stations and you
 
 //Design//
 
-Unlike the Mk1 which was a modified Ghast, this has been built as its own ship, making use of the speed and convenience of the recycle tool to rend found salvage into mats.
+Back in the "good old days" before cap ships, flying through the gate could be dangerous.
 
-This also makes it double as a cheap starter 8 crate hand miner, for both belt and surface.
+While this is less of a issue these days, for newer players without cap ships looking to mine in Ely they need to pass the iconic chokepoint.
 
-Mainly made to act as a expendable salvage ship during cargo crisis events, you can fill the the ship and be in and out undetected very quickly.
+Should piracy ever return to its former glory, this hauler and miner serve to help start out in spite of the danger.
 
-Deliberately low tech and cheap, utilising stealthy manoeuvre thrusters to avoid direct fights in PvP zones, at the cost of prop range.
+A new player can grind mats/credits in SZ and build a small fleet of these haulers/miners to prevent being stone aged trying to set up on Ely.
 
-Plates are hidden inside the crate layer surrounding the critical components, to reduce lethality from hostile endos.
+I personaly recomend setting a station in the Ely belt and building a small hanger to refill and repair the ships.
 
-Can mount a tripod on various points of the ship, but top speed takes a serious dip.
+While not meta tanked, the ship has a generous 2 layer char firewall at the rear, and a char cockpit shield, meant to make easy crit hits a little less easy.
 
-Prop range can be increased with pocket fuel rigs (Prop tank + tank support + hardpoint + resource bridge)
+These ships are also ideal for individuals and corps to opperate out of dev stations like moon city and arma.
+
+T1 fuel rods are not as economic as T2, these require exorium to be hauled out for refils, where as T1 can be sustained with local nhurgite.
+
+Combined with a SZ CLF hauler to generate credits, a new player can easily fund trips to the Ely belt, and can mine the materials for better ships and there own cap ship in time.
